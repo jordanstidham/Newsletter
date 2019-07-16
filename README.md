@@ -9,4 +9,9 @@ Stakeholders in Oak Ridge Institute for Science and Education (ORISE) Workforce 
 																		
 PROJECT DESCRIPTION									
 
-The purpose of the quarterly email newsletter is to provide stakeholders in Oak Ridge Institute for Science and Education (ORISE) Workforce Development (WD) Strategic Partnerships Projects (SPP) Programs relevant news, updates, articles, reminders, and general information related to ORISE, DOE, DOD, and STEM. The objectives include driving traffic to the corporate website, building awareness of the ORISE brand, and informing the target audience. The newsletter is created using Mailchimp and is distributed to a list of 2,000 subscribers on behalf of ORISE Workforce Development Programs. I am utilizing several different design softwares to create original content and graphics, including Adobe Photoshop and Adobe Illustrator. 									
+The purpose of the quarterly email newsletter is to provide stakeholders in Oak Ridge Institute for Science and Education (ORISE) Workforce Development (WD) Strategic Partnerships Projects (SPP) Programs relevant news, updates, articles, reminders, and general information related to ORISE, the U.S. Department of Energy, the U.S. Department of Defense, and STEM. The objectives include driving traffic to the corporate website, building awareness of the ORISE brand, and informing the target audience. The newsletter is created using Mailchimp and is distributed to a list of 2,000 subscribers on behalf of ORISE WD Programs. I am utilizing several design softwares to create original content and graphics, including Adobe Photoshop and Adobe Illustrator. As Editor, I...		
+	• Brainstorm article ideas
+	• Assign article ideas/communicate with groups or individuals for articles and information 
+	• Write articles for the newsletter 
+	• Format newsletter (layout, grammar, spelling, and editing) 
+	• Create campaign and release newsletter 
