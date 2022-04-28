@@ -1,4 +1,4 @@
-# Newsletter
+# Quarterly Newsletter
 CREATED FOR									
 
 Oak Ridge Institute for Science and Education (ORISE) STEM Workforce Development (WD) Strategic Partnerships Projects (SPP) Programs									
